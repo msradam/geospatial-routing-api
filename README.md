@@ -1,4 +1,4 @@
-# 🌐 Magicbox Routing API ![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)
+# 🌐 Geospatial Routing API 
 Utilities to retrieve road networks from country maps and compute distances between geospatial coordinates.
 
 ![Screenshot](https://raw.githubusercontent.com/msradam/geospatial-routing-api/master/misc/screenshot.png)
