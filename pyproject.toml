@@ -41,7 +41,7 @@ dependencies = [
 
 [project.optional-dependencies]
 ml = [
-    "torch>=2.3",
+    "torch>=2.13.0",
     "terratorch",
     "huggingface-hub>=0.24",
 ]
